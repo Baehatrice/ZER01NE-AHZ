@@ -1,0 +1,6 @@
+{
+  "name": "Card Slider Explorer",
+  "description": "An immersive interactive card slider with 3D Coverflow, Stacks, and Fanned out layouts. Features real-time Web Audio synth soundscapes and local logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
